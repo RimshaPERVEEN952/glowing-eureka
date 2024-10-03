@@ -1,0 +1,72 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.menu {
+    text-align: center;
+}
+
+.navbar1 {
+    color: white;
+    background-color: rgba(128, 158, 170, 0.583);
+    list-style-type: none;
+    text-align: center;
+    height: 47px;
+    text-decoration: none;
+    text-shadow: 2px 7px 8px rgb(30, 54, 50);
+    display: flex;
+    padding-left: 350px;
+    font-size: 30px;
+
+
+}
+
+a {
+    margin: 30px;
+
+}
+
+/*
+.navbar2{
+height: 400px;
+width: 500px;
+background-image: ;
+}*/
+.s-icon {
+
+    color: white;
+    opacity: 0.7;
+    background-color: rgba(20, 50, 61, 0.583);
+    list-style-type: none;
+    text-align: center;
+    height: 49px;
+    text-decoration: none;
+    text-shadow: 2px 4px 8px rgb(37, 37, 37);
+    display: flex;
+    padding-left: 350px;
+    font-size: 30px;
+
+}
+
+i {
+    padding: 10px;
+}
+
+header {
+    height: 80%;
+    width: 100%;
+    background: linear-gradient(to right, gray 60%, black 40%);
+}
+
+.ind-name {
+    margin-left: 190px;
+    padding-top: 70px;
+    width: 300px ;
+    height: 30px;
+    background-color: rgb(14, 34, 52);
+}
+
+.t-data {
+    border-style: double;
+}
