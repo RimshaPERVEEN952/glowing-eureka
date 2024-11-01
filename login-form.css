@@ -1,0 +1,70 @@
+body {
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background: rgba(0, 0, 0, 0.1) url(rim.jpg);
+    background-size: cover;
+    background-blend-mode: darken;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.mean {
+    background: rgba(0, 0, 0, 0.3);
+    margin-left: 400px;
+    margin-top: 200px;
+border-radius: 30px;
+    width: 400px;
+    text-align: center;
+    height: 560px;
+    box-shadow: 0px 0px 11px 11px rgba(88, 127, 134, 0.753);
+    /* border-radius: 30px; */
+}
+
+.sign-up-form {
+    text-shadow: 0 0 2px rgb(15, 206, 31);
+    width: 350px;
+    box-shadow: 0 10 30 3px rgb(0, 0, 0, 0.3);
+    margin: 8% auto 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.sign-up {
+    border-radius:15px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    height: 50px;
+    width: 300px;
+
+    /* border-radius: 25px; */
+}
+hr{
+   margin: 30px;
+   width: 250px;
+}
+.or{
+color:black;
+text-align: center;
+font-size:30px;
+
+    margin-top: -45PX;
+}
+
+.sign-up-bton {
+    height: 50px;
+    font-size: 20px;
+    border-radius: 15px;
+    border: none;
+    width: 290px;
+}
+
+.sign-up-bton1 {
+    border-radius: 30px;
+    height: 25px;
+    width: 220px;
+    color:#002642;
+    border: none;
+    background-color: #2a6f97;
+}
